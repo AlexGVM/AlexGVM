@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Yo soy Alexander Villatoro, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala.
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" />
-<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-SonyVegas%20CS6-9cf" /> <img src="https://img.shields.io/badge/-Python-lightgrey" />
+<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Python-lightgrey" /><img src="https://img.shields.io/badge/-SonyVegas-9cf" /> 
 
 <details>
 	<summary>Herramientas</summary>
@@ -41,12 +41,12 @@ Yo soy Alexander Villatoro, un apasionado estudiante de ingeniería en informát
 ## Estadísticas
 Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de github sobre los lenguajes donde más he codificado en los repositorios.
 
-<a href="https://github.com/AndresSGalvezA/github-readme-stats">
+<a href="https://github.com/AlexGVM/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=tokyonight" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Andres" />
+<br><a href="https://github.com/AlexGVM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Alex" />
 </a> &nbsp;
 
 <p align="center"> 
