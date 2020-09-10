@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 <!--
-**Alex1182118/Alex1182118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlexGVM/AlexGVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
