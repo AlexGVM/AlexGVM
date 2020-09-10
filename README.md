@@ -42,11 +42,11 @@ Yo soy Alexander Villatoro, un apasionado estudiante de ingeniería en informát
 Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de github sobre los lenguajes donde más he codificado en los repositorios.
 
 <a href="https://github.com/AlexGVM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGVM&layout=compact&theme=tokyonight" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/AlexGVM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Alex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexGVM&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Alex" />
 </a> &nbsp;
 
 <p align="center"> 
@@ -55,12 +55,7 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
 </p>
 
 ## Conecta conmigo
-<a href="https://www.linkedin.com/in/andres-g%C3%A1lvez-920b141b0/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/andarrz">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
+
   <a href="mailto:asgasebastian@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
