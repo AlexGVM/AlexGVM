@@ -53,11 +53,7 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-
-
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif
-
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 ## Conecta conmigo
 <a href="https://www.linkedin.com/in/alexander-villatoro-424b161b0/">
