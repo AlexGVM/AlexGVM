@@ -26,6 +26,8 @@ Yo soy Alexander Villatoro, un apasionado estudiante de ingeniería en informát
     <li>Netbeans</li>
 	  <li>SQL Server Management Studio</li>
 	  <li>Sony Vegas</li>
+		<li>Jupyter</li>
+		<li>Spyder</li>
 	</ul>
 </details>
 
